@@ -8,13 +8,11 @@
 max-width:25%;
 background:linear-gradient( #F08080, 	#191970);
 border: 5px solid;
-display:inline-block;
 }
 
 .main{
 background:maroon;
 border:5px solid black;
-display:inline-block;
 }
 
  body {
