@@ -3,19 +3,25 @@
 	padding:10px;
 	border:10px solid black;
 	margin:10px;
-}
+}#6480a
 .sidebar{
 max-width:25%;
 background:linear-gradient( #F08080, 	#191970);
-border: 5px solid;
+border: 10px solid;
 }
 
 .main{
 background:linear-gradient(maroon, black);
-border:5px solid black;
+border:10px solid black;
 max-width:25%;
 }
 
  body {
     background-color: #a85088;
+}
+
+.hello {
+max-width:25%;
+background:linear-gradient( #636e7f, 	#6480aa);
+border: 10px solid;
 }
